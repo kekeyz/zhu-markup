@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #e8ebef;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+img {
+	width: 100%;
+}
+
+.container {
+	max-width: 750px;
+	margin: 100px auto 0 auto
+
+}
+
+.headline {
+	font-size: 100px;
+	font-family: Helvetica;
+	line-height: 90px
+}
+
+.body {
+	font-size: 22px;
+	line-height: 32px;
+	font-family: georgia;
+
+}
+
+
+
+
